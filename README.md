@@ -4,7 +4,7 @@
 
 💻 From intuitive Expense Trackers to powerful Blockchain tools, and even quirky CSS Art, I enjoy creating projects that blend functionality with creativity.
 
-📱 Currently diving deeper into App Development and experimenting with running AI models locally — because I believe in smart software with real privacy 🔒 and full control ⚡.
+📱 Currently diving deeper into App Development and experimenting with running AI models locally because I believe in smart software with real privacy 🔒 and full control ⚡.
 
 🧠 Whether it’s coding, designing, or pushing the limits of what’s possible with AI, I’m always up for the next big challenge! 🚀
 
