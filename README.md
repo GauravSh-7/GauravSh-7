@@ -1,12 +1,10 @@
 ## Hi there, I am Gaurav👋
 
-🎓 A passionate BCA student at Chandigarh University, driven by a love for tech, innovation, and building cool things that actually work. 
+**Recent graduate and aspiring AI & Python Developer with a passion for building practical software solutions and creative digital experiences. Skilled in Python, Streamlit, NLP, Generative AI, Git, and cloud deployment, with hands-on experience developing projects such as a GenAI Resume Analyzer and a customizable Password Generator.**
 
-💻 From intuitive Expense Trackers to powerful Blockchain tools, and even quirky CSS Art, I enjoy creating projects that blend functionality with creativity.
+**In addition to software development, I have experience with Adobe Photoshop, Blender, and Adobe Animate, enabling me to combine technical problem-solving with visual design and content creation. I am continuously learning new technologies and seeking opportunities to contribute to innovative software and AI-driven projects.**
 
-📱 Currently diving deeper into App Development and experimenting with running AI models locally because I believe in smart software with real privacy 🔒 and full control ⚡.
 
-🧠 Whether it’s coding, designing, or pushing the limits of what’s possible with AI, I’m always up for the next big challenge! 🚀
 
 HackerRank Profile:- [Click Here](https://www.hackerrank.com/profile/sdvjnsdjvbgihgf1)
 
