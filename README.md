@@ -9,7 +9,7 @@
 🧠 Whether it’s coding, designing, or pushing the limits of what’s possible with AI, I’m always up for the next big challenge! 🚀
 
 HackerRank Profile:- [Click Here](https://www.hackerrank.com/profile/sdvjnsdjvbgihgf1)
-
+GenAi Resume Analyzer Project:- [Click Here](https://genai-resume-analyzer-yhzaead2rmkfhcibzntbbv.streamlit.app/)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gs859435@gmail.com) 
