@@ -9,6 +9,7 @@
 HackerRank Profile:- [Click Here](https://www.hackerrank.com/profile/sdvjnsdjvbgihgf1)
 
 GenAi Resume Analyzer Project:- [Click Here](https://genai-resume-analyzer-yhzaead2rmkfhcibzntbbv.streamlit.app/)
+
 Gurugram Real Estate Price Prediction [Click Here](https://gurugram-house-price-predictor-9mvfp3t3q9pc4ykwppq76h.streamlit.app/)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gs859435@gmail.com) 
